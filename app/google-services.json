@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947012131919",
+    "project_id": "quiz-app-d0abe",
+    "storage_bucket": "quiz-app-d0abe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947012131919:android:10665b72b949b9a7ee9e3a",
+        "android_client_info": {
+          "package_name": "com.techmania.quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ-JtxcgK_1W0aXYxnHUBrv1eZmxRJmM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
